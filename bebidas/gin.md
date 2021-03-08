@@ -1,5 +1,7 @@
 # Gin Cristal :tropical_drink:
 
+
+Álcool combustível de 94 a 88 de álcool
 ### Equipamentos
 
 - Medidor de BRIX (açúcar)
